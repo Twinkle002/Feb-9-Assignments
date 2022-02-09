@@ -1,0 +1,7 @@
+#print two of greatest number:
+a = int(input("ENTER VALUES OF a:"))
+b = int(input("ENTER VALUES OF b:"))
+if b > a:
+  print("b is greater than a")
+else:
+  print("b is not greater than a")
